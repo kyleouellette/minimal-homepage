@@ -36,7 +36,8 @@ li {
       font-size: 1.3em;
       text-align: left;
       border-bottom: 1px solid #ddd;
-      color: #888; }
+      color: #888;
+      padding: 10px; }
       li:first-child {
         border-top: 1px solid #ddd; } }
   li:last-child {
@@ -54,7 +55,9 @@ p {
     p {
       font-size: 1.1em;
       text-align: left;
-      line-height: 1.3em; } }
+      line-height: 1.3em;
+      width: 90%;
+      margin: 20px 10px; } }
 
 a {
   color: #333;
